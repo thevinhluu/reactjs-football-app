@@ -1,0 +1,617 @@
+{
+  "matches" : {
+    "-LEmaPHHgI3SgqTKu9u6" : {
+      "away" : "Leicester",
+      "awayThmb" : "leicester",
+      "date" : "2019-12-22",
+      "final" : "Yes",
+      "local" : "Man.City",
+      "localThmb" : "manchester_city",
+      "referee" : "Mike Dean",
+      "result" : "W",
+      "resultAway" : "1",
+      "resultLocal" : "3",
+      "stadium" : "Etihad Stadium"
+    },
+    "-LEmaPHWXzdUZ_5ohJPa" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2019-12-28",
+      "final" : "Yes",
+      "local" : "Wolverhampton",
+      "localThmb" : "wolverhampton",
+      "referee" : "Martin Atkinson",
+      "result" : "L",
+      "resultAway" : "2",
+      "resultLocal" : "3",
+      "stadium" : "Molineux Stadium"
+    },
+    "-LEmaPHYAYfVEsQETNZc" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2019-12-30",
+      "final" : "Yes",
+      "local" : "Man.City",
+      "localThmb" : "manchester_city",
+      "referee" : "Chris Kavanagh",
+      "result" : "W",
+      "resultAway" : "0",
+      "resultLocal" : "2",
+      "stadium" : "Etihad Stadium"
+    },
+    "-LEmaPHZ37QJL1IWficV" : {
+      "away" : "Everton",
+      "awayThmb" : "everton",
+      "date" : "2020-01-02",
+      "final" : "Yes",
+      "local" : "Man.City",
+      "localThmb" : "manchester_city",
+      "referee" : "Andre Marriner",
+      "result" : "W",
+      "resultAway" : "1",
+      "resultLocal" : "2",
+      "stadium" : "Etihad Stadium"
+    },
+    "-LEmaPHecaATk_4CsrUS" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2020-01-12",
+      "final" : "Yes",
+      "local" : "Aston Villa",
+      "localThmb" : "aston_villa",
+      "referee" : "Jonathan Moss",
+      "result" : "W",
+      "resultAway" : "6",
+      "resultLocal" : "1",
+      "stadium" : "Villa Park"
+    },
+    "-LEmaPHoZMzLDoLOPaC7" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2020-01-18",
+      "final" : "Yes",
+      "local" : "C.Palace",
+      "localThmb" : "crystal_palace",
+      "referee" : "Graham Scott",
+      "result" : "D",
+      "resultAway" : "2",
+      "resultLocal" : 2,
+      "stadium" : "Etihad Stadium"
+    },
+    "-LEpjA-RXGxfGJzJVIq2" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2020-01-22",
+      "final" : "Yes",
+      "local" : "Sheffield",
+      "localThmb" : "sheffield",
+      "referee" : "Lee Mason",
+      "result" : "W",
+      "resultAway" : "1",
+      "resultLocal" : "0",
+      "stadium" : "Bramall Lane"
+    },
+    "-LEpjiJYUwudct8Of238" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2020-02-02",
+      "final" : "Yes",
+      "local" : "Tottenham",
+      "localThmb" : "tottenham",
+      "referee" : "Mike Dean",
+      "result" : "L",
+      "resultAway" : "0",
+      "resultLocal" : "2",
+      "stadium" : "Tottenham Hotspur Stadium"
+    },
+    "-LEpkJjTHwHHTkjN81pI" : {
+      "away" : "Westham",
+      "awayThmb" : "west_ham",
+      "date" : "2020-02-20",
+      "final" : "Yes",
+      "local" : "Man.City",
+      "localThmb" : "manchester_city",
+      "referee" : "Kevin Friend",
+      "result" : "W",
+      "resultAway" : "0",
+      "resultLocal" : "2",
+      "stadium" : "Etihad Stadium"
+    },
+    "-LEpo_IdqBFaS1xKK1wp" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2020-02-23",
+      "final" : "Yes",
+      "local" : "Leicester",
+      "localThmb" : "leicester",
+      "referee" : "Paul Tierney",
+      "result" : "W",
+      "resultAway" : "1",
+      "resultLocal" : "0",
+      "stadium" : "King Power Stadium"
+    },
+    "-LEpouW8C-umWENbq354" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2020-03-08",
+      "final" : "Yes",
+      "local" : "Man.Utd",
+      "localThmb" : "manchesr_united",
+      "referee" : "Mike Dean",
+      "result" : "L",
+      "resultAway" : "0",
+      "resultLocal" : "2",
+      "stadium" : "Old Trafford"
+    },
+    "-LErlCZn5tjRJU3rMx0n" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2020-05-09",
+      "final" : "No",
+      "local" : "Watford",
+      "localThmb" : "watford",
+      "referee" : "Mathias Rorry",
+      "result" : "n/a",
+      "resultAway" : "-",
+      "resultLocal" : "-",
+      "stadium" : "Vicarage Road"
+    },
+    "-M6VWWX5KGJKqpsbB4c8" : {
+      "away" : "Man.City",
+      "awayThmb" : "manchester_city",
+      "date" : "2019-12-15",
+      "final" : "Yes",
+      "local" : "Arsenal",
+      "localThmb" : "arsenal",
+      "referee" : "Paul Tierney",
+      "result" : "W",
+      "resultAway" : "3",
+      "resultLocal" : "0",
+      "stadium" : "Emirates Stadium"
+    },
+    "-M6VY1vCkRRpm3VyRIf7" : {
+      "away" : "Man.Utd",
+      "awayThmb" : "manchesr_united",
+      "date" : "2019-12-08",
+      "final" : "Yes",
+      "local" : "Man.City",
+      "localThmb" : "manchester_city",
+      "referee" : "Anthony Taylor",
+      "result" : "D",
+      "resultAway" : "2",
+      "resultLocal" : "1",
+      "stadium" : "Etihad Stadium"
+    }
+  },
+  "players" : {
+    "-LEvJ6w8YuUXtU6K3G2I" : {
+      "image" : "6dae95b3-a5c9-47b7-9a00-c4c37dd55249.png",
+      "lastname" : "Morales",
+      "name" : "Ederson",
+      "number" : "31",
+      "position" : "Keeper"
+    },
+    "-LEvJNVy2UXDdYIa-iw8" : {
+      "image" : "b273224e-5904-4a54-ba2c-58f1e0a056a6.png",
+      "lastname" : "Bravo",
+      "name" : "Claudio",
+      "number" : "1",
+      "position" : "Keeper"
+    },
+    "-LEvJX0DU85wQE7CoRvT" : {
+      "image" : "82511b05-e3b5-4517-aa9c-bfd44805c42b.png",
+      "lastname" : "Mendy",
+      "name" : "Benjamin",
+      "number" : "22",
+      "position" : "Defence"
+    },
+    "-LEvJjg_znR-BgWkEtAh" : {
+      "image" : "a0d0e6c6-299a-4960-8726-174b4f525a7a.png",
+      "lastname" : "Barbosa",
+      "name" : "Danilo",
+      "number" : "3",
+      "position" : "Defence"
+    },
+    "-LEvJqm_2vzKpJeoEx8-" : {
+      "image" : "7f9bc451-60a0-4989-b435-57cdad8c3bdd.png",
+      "lastname" : "Laporte",
+      "name" : "Aymeric",
+      "number" : "14",
+      "position" : "Defence"
+    },
+    "-LEvJzT3Ya-tRnU8fbv2" : {
+      "image" : "dbaecda6-ae22-4c18-aa05-e588e3ee3fa9.png",
+      "lastname" : "Otamendy",
+      "name" : "Nicolas",
+      "number" : "30",
+      "position" : "Defence"
+    },
+    "-LEvK64_Celay8Fy7phz" : {
+      "image" : "3782d631-56c2-492a-8bfc-bdb77081c2fe.png",
+      "lastname" : "Stones",
+      "name" : "John",
+      "number" : "5",
+      "position" : "Defence"
+    },
+    "-LEvKGTAwJ4NeXAQ9sEY" : {
+      "image" : "87da2a4b-f486-4566-9817-9f85f14e3540.png",
+      "lastname" : "Adarabioyo",
+      "name" : "Tosin",
+      "number" : "53",
+      "position" : "Defence"
+    },
+    "-LEvKNzwLsfhVIt-yFi-" : {
+      "image" : "fd50db0f-88ac-4619-becc-c30b5610a82a.png",
+      "lastname" : "Kompany",
+      "name" : "Vincent",
+      "number" : "4",
+      "position" : "Defence"
+    },
+    "-LEvKbivY2TXDpzPaRbK" : {
+      "image" : "6e7994d9-1de0-4bb9-8be6-12f6345efae5.png",
+      "lastname" : "Silva",
+      "name" : "Bernardo",
+      "number" : "20",
+      "position" : "Midfield"
+    },
+    "-LEvKi6nCkIOIDG_vqNT" : {
+      "image" : "df6c38b4-d9f2-4d55-b3d8-b361baf51d30.png",
+      "lastname" : "Delph",
+      "name" : "Fabian",
+      "number" : "18",
+      "position" : "Midfield"
+    },
+    "-LEvKoUAlOvOEKxmLeYt" : {
+      "image" : "316c8ce3-0e87-4392-9085-87d220beaff4.png",
+      "lastname" : "Diaz",
+      "name" : "Brahim",
+      "number" : "55",
+      "position" : "Midfield"
+    },
+    "-LEvL-9OwY81jtLK4vRo" : {
+      "image" : "fa3b49ed-9300-4b6a-b36e-59bfa3b3e9ba.png",
+      "lastname" : "Luiz Roza",
+      "name" : "Fernandinho",
+      "number" : "25",
+      "position" : "Midfield"
+    },
+    "-LEvL6DPIGfTGSiECiGn" : {
+      "image" : "1f51833d-b7c6-41c6-8d27-ad37f40b4507.png",
+      "lastname" : "Gundogan",
+      "name" : "Ilkay",
+      "number" : "8",
+      "position" : "Midfield"
+    },
+    "-LEvLHeOGiwdrjt_24tJ" : {
+      "image" : "43970edd-356f-4e1f-8620-411376ed40b8.png",
+      "lastname" : "De Bruyne",
+      "name" : "Kevin",
+      "number" : "17",
+      "position" : "Midfield"
+    },
+    "-LEvLUetxwECfzu5x42_" : {
+      "image" : "ed2445e5-6329-459a-b26b-82f53d5ad603.png",
+      "lastname" : "Sterling",
+      "name" : "Raheem",
+      "number" : "7",
+      "position" : "Midfield"
+    },
+    "-LEvLc0V15K5t6ZFNl3h" : {
+      "image" : "e2a43501-17c3-4b6d-8ca2-2ed9bc9119bf.png",
+      "lastname" : "Sane",
+      "name" : "Leroy",
+      "number" : "19",
+      "position" : "Midfield"
+    },
+    "-LEvLkHrtrkJbwM0PNR8" : {
+      "image" : "0541d0e9-e941-4ab3-bc12-10d44422f0b1.png",
+      "lastname" : "Jesus",
+      "name" : "Gabriel",
+      "number" : "33",
+      "position" : "Striker"
+    },
+    "-LEvLriNui5SI5fpmVk0" : {
+      "image" : "0604380e-dcd1-47df-8b58-de3a02e0a7ce.png",
+      "lastname" : "Nmecha",
+      "name" : "Lukas",
+      "number" : "12",
+      "position" : "Striker"
+    },
+    "-LEvLzlEaVyZTlHszSqf" : {
+      "image" : "0d742001-8ecc-4af0-a862-81467a5e6abf.png",
+      "lastname" : "Aguero",
+      "name" : "Serg",
+      "number" : "99",
+      "position" : "Striker"
+    },
+    "-M9WMHzAFtKagvIaydY6" : {
+      "image" : "da281529-3d72-4622-b04e-1403a4eb031d.jpg",
+      "lastname" : "Lionel",
+      "name" : "Messi",
+      "number" : "10",
+      "position" : "Striker"
+    },
+    "-M9WMx_t2a0Wp_-Av7Pi" : {
+      "image" : "3cbea84a-3151-4064-9d0b-86ee5c2a83cd.jpg",
+      "lastname" : "Cristiano",
+      "name" : "Ronaldo",
+      "number" : "77",
+      "position" : "Striker"
+    }
+  },
+  "positions" : {
+    "-LEu6H7cllCT8Xv3CFil" : {
+      "d" : "1",
+      "l" : "1",
+      "p" : "29",
+      "pts" : "82",
+      "team" : "Liverpool",
+      "w" : "27"
+    },
+    "-LEu6H7gyI75bVJEeec_" : {
+      "d" : "3",
+      "l" : "7",
+      "p" : "28",
+      "pts" : "57",
+      "team" : "Man.City",
+      "w" : "18"
+    },
+    "-LEu6H7hLA7q73L5P0vh" : {
+      "d" : "5",
+      "l" : "8",
+      "p" : "29",
+      "pts" : "53",
+      "team" : "L.City",
+      "w" : "16"
+    },
+    "-LEu6H7il1xQFg7j2Igp" : {
+      "d" : "6",
+      "l" : "9",
+      "p" : "29",
+      "pts" : "48",
+      "team" : "Chelsea",
+      "w" : "14"
+    },
+    "-LEu6H7il1xQFg7j2Igq" : {
+      "d" : "9",
+      "l" : "8",
+      "p" : "29",
+      "pts" : "45",
+      "team" : "Man.Utd",
+      "w" : "12"
+    },
+    "-LEu6H7jiWyn4EIbe9ff" : {
+      "d" : "13",
+      "l" : "6",
+      "p" : "29",
+      "pts" : "43",
+      "team" : "Wolves",
+      "w" : "10"
+    },
+    "-LEu6H7jiWyn4EIbe9fg" : {
+      "d" : "10",
+      "l" : "7",
+      "p" : "28",
+      "pts" : "43",
+      "team" : "Sheffield",
+      "w" : "11"
+    },
+    "-LEu6H7jiWyn4EIbe9fh" : {
+      "d" : "8",
+      "l" : "10",
+      "p" : "29",
+      "pts" : "41",
+      "team" : "Tottenham",
+      "w" : "11"
+    },
+    "-LEu6H7jiWyn4EIbe9fi" : {
+      "d" : "13",
+      "l" : "6",
+      "p" : "28",
+      "pts" : "40",
+      "team" : "Arsenal",
+      "w" : "9"
+    },
+    "-LEu6H7k-I69gFo2pPJO" : {
+      "d" : "6",
+      "l" : "12",
+      "p" : "29",
+      "pts" : "39",
+      "team" : "Burnley",
+      "w" : "11"
+    },
+    "-LEu6H7k-I69gFo2pPJP" : {
+      "d" : "9",
+      "l" : "10",
+      "p" : "29",
+      "pts" : "39",
+      "team" : "C.Palace",
+      "w" : "10"
+    },
+    "-LEu6H7k-I69gFo2pPJQ" : {
+      "d" : "7",
+      "l" : "12",
+      "p" : "29",
+      "pts" : "37",
+      "team" : "Everton",
+      "w" : "10"
+    },
+    "-LEu6H7k-I69gFo2pPJR" : {
+      "d" : "8",
+      "l" : "12",
+      "p" : "29",
+      "pts" : "35",
+      "team" : "Newcastle",
+      "w" : "9"
+    },
+    "-LEu6H7lfvbxKHHKKMdI" : {
+      "d" : "4",
+      "l" : "15",
+      "p" : "29",
+      "pts" : "34",
+      "team" : "Southampton",
+      "w" : "10"
+    },
+    "-LEu6H7lfvbxKHHKKMdJ" : {
+      "d" : "11",
+      "l" : "12",
+      "p" : "29",
+      "pts" : "29",
+      "team" : "Brighton",
+      "w" : "6"
+    },
+    "-LEu6H7lfvbxKHHKKMdK" : {
+      "d" : "6",
+      "l" : "16",
+      "p" : "29",
+      "pts" : "27",
+      "team" : "West Ham",
+      "w" : "7"
+    },
+    "-LEu6H7m4062dnfBAErx" : {
+      "d" : "9",
+      "l" : "14",
+      "p" : "29",
+      "pts" : "27",
+      "team" : "Watford",
+      "w" : "6"
+    },
+    "-LEu6H7m4062dnfBAEry" : {
+      "d" : "6",
+      "l" : "16",
+      "p" : "29",
+      "pts" : "27",
+      "team" : "Bournemouth",
+      "w" : "7"
+    },
+    "-LEu6H7odCjOGD4xwS85" : {
+      "d" : "4",
+      "l" : "17",
+      "p" : "28",
+      "pts" : "25",
+      "team" : "Aston Villa",
+      "w" : "7"
+    },
+    "-LEu6H7odCjOGD4xwS86" : {
+      "d" : "6",
+      "l" : "18",
+      "p" : "29",
+      "pts" : "21",
+      "team" : "Norwich City",
+      "w" : "5"
+    }
+  },
+  "promotions" : {
+    "-M5vgOPRs9x6lXjZHOgo" : {
+      "email" : "luuthevinh1988@gmail.com"
+    },
+    "-M6UXySI_jEzF81lXI8v" : {
+      "email" : "abc@gmail.com"
+    },
+    "-M9WJrIrUp7xd_st4HIt" : {
+      "email" : "ac@gmail.com"
+    }
+  },
+  "teams" : {
+    "-LEkjWZ2lNF9bj8LKJHP" : {
+      "name" : "Arsenal",
+      "shortName" : "Arsenal",
+      "thmb" : "arsenal"
+    },
+    "-LEkjWZQ2Otlfetr2y62" : {
+      "name" : "AFC Bournemouth",
+      "shortName" : "Bournemouth",
+      "thmb" : "bournemouth"
+    },
+    "-LEkjWZS9pr6JW9GHwrk" : {
+      "name" : "Brighton and Hove Albion",
+      "shortName" : "Brighton",
+      "thmb" : "brighton"
+    },
+    "-LEkjWZS9pr6JW9GHwrl" : {
+      "name" : "Burnley",
+      "shortName" : "Burnley",
+      "thmb" : "burnley"
+    },
+    "-LEkjWZTzWhJZqm-a3Sx" : {
+      "name" : "Chelsea",
+      "shortName" : "Chelsea",
+      "thmb" : "chelsea"
+    },
+    "-LEkjWZU5jlUE6VFoYzZ" : {
+      "name" : "Crystal Palace",
+      "shortName" : "C.Palace",
+      "thmb" : "crystal_palace"
+    },
+    "-LEkjWZVs9TaDOngv2w9" : {
+      "name" : "Everton",
+      "shortName" : "Everton",
+      "thmb" : "everton"
+    },
+    "-LEkjWZVs9TaDOngv2wA" : {
+      "name" : "Sheffield Utd",
+      "shortName" : "Sheffield",
+      "thmb" : "sheffield"
+    },
+    "-LEkjWZVs9TaDOngv2wB" : {
+      "name" : "Aston Villa",
+      "shortName" : "Aston Villa",
+      "thmb" : "aston_villa"
+    },
+    "-LEkjWZWqgh0nHltmK7K" : {
+      "name" : "Norwich City",
+      "shortName" : "Norwich",
+      "thmb" : "norwich_city"
+    },
+    "-LEkjWZWqgh0nHltmK7L" : {
+      "name" : "Leicester City",
+      "shortName" : "Leicester",
+      "thmb" : "leicester"
+    },
+    "-LEkjWZWqgh0nHltmK7M" : {
+      "name" : "Liverpool",
+      "shortName" : "Liverpool",
+      "thmb" : "liverpool"
+    },
+    "-LEkjWZXyLYyHX18d-Nc" : {
+      "name" : "Newcastle United",
+      "shortName" : "Newcastle",
+      "thmb" : "newcastle"
+    },
+    "-LEkjWZYlNGsVaMovmED" : {
+      "name" : "Tottenham Hotspur",
+      "shortName" : "Tottenham",
+      "thmb" : "tottenham"
+    },
+    "-LEkjWZYlNGsVaMovmEE" : {
+      "name" : "Watford",
+      "shortName" : "Watford",
+      "thmb" : "watford"
+    },
+    "-LEkjWZ_o8L_o7aPCUhY" : {
+      "name" : "Westham United",
+      "shortName" : "Westham",
+      "thmb" : "west_ham"
+    },
+    "-LEkjWZcp-XO7u9MM_-y" : {
+      "name" : "Wolverhampton Wanderers",
+      "shortName" : "Wolverhampton",
+      "thmb" : "wolverhampton"
+    },
+    "-LEkjWZdwNi8ZTKC8zFR" : {
+      "name" : "Southampton",
+      "shortName" : "Southampton",
+      "thmb" : "southampton"
+    },
+    "-LEkjWZdwNi8ZTKC8zFS" : {
+      "name" : "Manchester City",
+      "shortName" : "Man.City",
+      "thmb" : "manchester_city"
+    },
+    "-LEkjWZewyjuwM_KMEJa" : {
+      "name" : "Manchester United",
+      "shortName" : "Man.Utd",
+      "thmb" : "manchesr_united"
+    }
+  }
+}
